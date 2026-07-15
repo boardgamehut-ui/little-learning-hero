@@ -11,6 +11,12 @@
 - 正式站：https://bghut.com/kids/
 - GitHub Pages：https://boardgamehut-ui.github.io/little-learning-hero/
 
+## 畫面預覽
+
+| 中英雙語首頁 | 數學答題畫面 | 寵物養成與每日旅程 |
+|---|---|---|
+| <img src="docs/screenshots/home-bilingual.png" alt="小小學習王中英雙語首頁" width="280"> | <img src="docs/screenshots/answering-math.png" alt="數學加減答題畫面" width="280"> | <img src="docs/screenshots/pet-growth.png" alt="寵物養成與每日五分鐘學習" width="280"> |
+
 ## 最強特色
 
 - 整套 App 約 1.3 MB，網路慢也能快速載入

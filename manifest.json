@@ -1,0 +1,17 @@
+{
+  "name": "小小學習王",
+  "short_name": "小小學習王",
+  "description": "免費兒童學習遊戲：英文、數學、注音、國字…20+ 種關卡，免安裝、可離線玩。",
+  "lang": "zh-Hant",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#a78bdb",
+  "theme_color": "#a78bdb",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
